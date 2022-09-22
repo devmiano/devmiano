@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 <img src="https://komarev.com/ghpvc/?username=devmiano&&style=flat-square" />
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devmiano&theme=blueberry_duo&hide_border=true&date_format=j%20M%5B%20Y%5D&background=1A1F37&ring=FFCA3A&fire=FF6978&currStreakNum=0AFFF7&currStreakLabel=FF6978&sideLabels=0AFFF7&sideNums=FF6978&dates=FFCA3A&stroke=0AFFF7&border=FFCA3A)](https://git.io/streak-stats)
 
